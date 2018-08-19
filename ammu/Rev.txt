@@ -8,3 +8,6 @@ ls
 cd .
 ls 
 git status
+hhl
+jhhbjhb
+hjkl
