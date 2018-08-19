@@ -2,3 +2,9 @@ fgg
 fgkj
 hbjknjk
 hjnk
+git pull origin master
+git checkout -b develop
+ls
+cd .
+ls 
+git status
