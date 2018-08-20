@@ -2,3 +2,6 @@ fykgffj
 cgbhjk
 ggvhj
 fguhkjh
+git merge develop
+git merge master
+checkout master
